@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin-top: 50px;
+}
+
+h1 {
+    color: #333;
+}
+
+#box {
+    width: 200px;
+    margin: auto;
+    padding: 20px;
+    background-color: lightblue;
+    border-radius: 8px;
+    font-size: 18px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: darkcyan;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: teal;
+}
